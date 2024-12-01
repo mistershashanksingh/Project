@@ -1,0 +1,16 @@
+Evaluation Attributes
+Data Collection - Completeness and correctness of of data collection
+10 Marks
+Data preparation - cleansing and preparing data for the next steps of model development
+10 Marks
+Algorithm Understanding - Knowledge of the algorithm used for model development
+15 Marks
+Model Development - Building the model with the right selection of the parameters
+20 Marks
+Model Tuning - Improving the model performance by tuning the hyper parameters
+15 Marks
+Model Evaluation - Testing the model on sufficient sample for correctness
+10 Marks
+i) Final Presentation and QA ii) Demonstration of the Working Demo of the system.
+20 Marks
+
